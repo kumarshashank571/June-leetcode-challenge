@@ -5,6 +5,7 @@ solution to problems of june leetcode challenge (hosted on leetcode in june 2020
 I am attaching the problem statement of each problem here.
 
 Q1.Invert binary tree(june 1)
+
 Invert a binary tree.
 
 Example:
@@ -27,6 +28,7 @@ Output:
 --------------------------------------------------------------------------------------------------------------------------------
 
 Q2. Delete node in LinkedList(june 2)
+
 Write a function to delete a node (except the tail) in a singly linked list, given only access to that node.
 
 Given linked list -- head = [4,5,1,9]
@@ -77,6 +79,7 @@ Note:
 
 
 Q4.Reverse String(june 4)
+
 Write a function that reverses a string. The input string is given as an array of characters char[].
 
 Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
@@ -120,6 +123,7 @@ Output: [null,0,1,1,1,0]
 
 
 Q6. Queue Reconstruction by Height(june 6)-
+
 Suppose you have a random list of people standing in a queue. Each person is described by a pair of integers (h, k), where h is the height of the person and k is the number of people in front of this person who have a height greater than or equal to h. Write an algorithm to reconstruct the queue.
 
 Note:
