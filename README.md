@@ -17,6 +17,7 @@ Input:
   2     7
  / \   / \
 1   3 6   9
+
 Output:
 
      4
@@ -34,13 +35,19 @@ Write a function to delete a node (except the tail) in a singly linked list, giv
 Given linked list -- head = [4,5,1,9]
 
 Example 1:
+
 Input: head = [4,5,1,9], node = 5
+
 Output: [4,1,9]
+
 Explanation: You are given the second node with value 5, the linked list should become 4 -> 1 -> 9 after calling your function.
 
 Example 2:
+
 Input: head = [4,5,1,9], node = 1
+
 Output: [4,5,9]
+
 Explanation: You are given the third node with value 1, the linked list should become 4 -> 5 -> 9 after calling your function.
  
 
@@ -60,8 +67,11 @@ There are 2N people a company is planning to interview. The cost of flying the i
 Return the minimum cost to fly every person to a city such that exactly N people arrive in each city.
 
  Example 1:
+ 
 Input: [[10,20],[30,200],[400,50],[30,20]]
+
 Output: 110
+
 Explanation: 
 The first person goes to city A for a cost of 10.
 The second person goes to city A for a cost of 30.
@@ -87,11 +97,15 @@ Do not allocate extra space for another array, you must do this by modifying the
 You may assume all the characters consist of printable ascii characters.
 
  Example 1:
+ 
 Input: ["h","e","l","l","o"]
+
 Output: ["o","l","l","e","h"]
 
 Example 2:
+
 Input: ["H","a","n","n","a","h"]
+
 Output: ["h","a","n","n","a","H"]
 
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -108,15 +122,23 @@ Note:
 3. pickIndex will be called at most 10000 times.
 
 Example 1:
+
 Input: 
+
 ["Solution","pickIndex"]
+
 [[[1]],[]]
+
 Output: [null,0]
 
 Example 2:
+
 Input: 
+
 ["Solution","pickIndex","pickIndex","pickIndex","pickIndex","pickIndex"]
+
 [[[1,3]],[],[],[],[],[]]
+
 Output: [null,0,1,1,1,0]
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -130,8 +152,11 @@ Note:
 The number of people is less than 1,100.
 
  Example
+ 
 Input:
+
 [[7,0], [4,4], [7,1], [5,0], [6,1], [5,2]]
 
 Output:
+
 [[5,0], [7,0], [5,2], [6,1], [4,4], [7,1]]
