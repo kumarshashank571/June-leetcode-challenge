@@ -55,3 +55,9 @@ Q24.https://leetcode.com/problems/unique-binary-search-trees/
 Q25.https://leetcode.com/problems/find-the-duplicate-number/
 
 Q26.https://leetcode.com/problems/sum-root-to-leaf-numbers/
+
+Q27.https://leetcode.com/problems/perfect-squares/
+
+Q28.https://leetcode.com/problems/reconstruct-itinerary/
+
+Q29.https://leetcode.com/problems/unique-paths/
