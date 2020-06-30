@@ -61,3 +61,6 @@ Q27.https://leetcode.com/problems/perfect-squares/
 Q28.https://leetcode.com/problems/reconstruct-itinerary/
 
 Q29.https://leetcode.com/problems/unique-paths/
+
+Q30.https://leetcode.com/problems/word-search-ii/
+
